@@ -17,10 +17,10 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 
 ## 🌐 Sites
 
-| Projeto | Descrição | Tecnologia | Status |
-|---------|-----------|-----------|--------|
-| [Serralheria FJS](https://github.com/junniorramos35/serralheriafjs) | Meu portfólio profissional | Next.js | ⚡ Ativo |
-| [GustavoHeis](https://github.com/junniorramos35/gustavoheis) | Meu portfólio profissional | Next.js | ⚡ Ativo |
+| Projeto | Descrição | Status |
+|---------|-----------|-----------|
+| [Serralheria FJS](https://github.com/junniorramos35/serralheriafjs) | Meu portfólio profissional |  Ativo |
+| [GustavoHeis](https://github.com/junniorramos35/gustavoheis) | Meu portfólio profissional | Ativo |
 
 
 
