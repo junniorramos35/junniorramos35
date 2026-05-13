@@ -3,23 +3,24 @@
 Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovadoras e código de qualidade. Aqui você encontrará todos os meus projetos organizados por categoria.
 
 ---
-## 📦 SaaS & Plataformas
+## 📦 Sistemas
 
 | Projeto | Descrição | Tecnologia | Status |
 |---------|-----------|-----------|--------|
 | [Dashboard](#) | Plataforma de analytics | React + Node.js | ⚡ Ativo |
 
-## 🚀 Aplicativos & Apps
+## 🚀 Aplicativos
 
 | Projeto | Descrição | Tecnologia | Status |
 |---------|-----------|-----------|--------|
 | [App 1](#) | Descrição do seu app | React/Vue | ⚡ Ativo |
 
-## 🌐 Websites & Portfólios
+## 🌐 Sites
 
 | Projeto | Descrição | Tecnologia | Status |
 |---------|-----------|-----------|--------|
 | [Serralheria FJS](https://github.com/junniorramos35/serralheriafjs) | Meu portfólio profissional | Next.js | ⚡ Ativo |
+| [GustavoHeis](https://github.com/junniorramos35/gustavoheis) | Meu portfólio profissional | Next.js | ⚡ Ativo |
 
 
 
@@ -29,14 +30,6 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 |---------|-----------|-----------|--------|
 | [Utils Helper](#) | Funções utilitárias | TypeScript | ⚡ Ativo |
 
----
-
-## 🛠️ Stack Tecnológico
-- React, Next.js, Vue.js
-- Node.js, Python, Django
-- PostgreSQL, MongoDB, Docker
-
----
 
 ## 📊 Estatísticas
 
