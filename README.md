@@ -5,15 +5,15 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 ---
 ## 📦 Sistemas
 
-| Projeto | Descrição | Tecnologia | Status |
-|---------|-----------|-----------|--------|
-| [Dashboard](#) | Plataforma de analytics | React + Node.js | ⚡ Ativo |
+| Projeto | Descrição | Status |
+|---------|-----------|-----------|
+| [Dashboard](#) | Plataforma de analytics | Ativo |
 
 ## 🚀 Aplicativos
 
-| Projeto | Descrição | Tecnologia | Status |
-|---------|-----------|-----------|--------|
-| [App 1](#) | Descrição do seu app | React/Vue | ⚡ Ativo |
+| Projeto | Descrição | Status |
+|---------|-----------|-----------|
+| [App 1](#) | Descrição do seu app |  Ativo |
 
 ## 🌐 Sites
 
@@ -26,9 +26,9 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 
 ## 📚 Bibliotecas & Ferramentas
 
-| Projeto | Descrição | Linguagem | Status |
-|---------|-----------|-----------|--------|
-| [Utils Helper](#) | Funções utilitárias | TypeScript | ⚡ Ativo |
+| Projeto | Descrição | Status |
+|---------|-----------|-----------
+| [Utils Helper](#) | Funções utilitárias | ⚡ Ativo |
 
 
 ## 📊 Estatísticas
