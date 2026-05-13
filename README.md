@@ -3,6 +3,11 @@
 Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovadoras e código de qualidade. Aqui você encontrará todos os meus projetos organizados por categoria.
 
 ---
+## 📦 SaaS & Plataformas
+
+| Projeto | Descrição | Tecnologia | Status |
+|---------|-----------|-----------|--------|
+| [Dashboard](#) | Plataforma de analytics | React + Node.js | ⚡ Ativo |
 
 ## 🚀 Aplicativos & Apps
 
@@ -16,11 +21,7 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 |---------|-----------|-----------|--------|
 | [Portfólio](#) | Meu portfólio profissional | Next.js | ⚡ Ativo |
 
-## 📦 SaaS & Plataformas
 
-| Projeto | Descrição | Tecnologia | Status |
-|---------|-----------|-----------|--------|
-| [Dashboard](#) | Plataforma de analytics | React + Node.js | ⚡ Ativo |
 
 ## 📚 Bibliotecas & Ferramentas
 
