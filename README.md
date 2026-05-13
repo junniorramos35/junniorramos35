@@ -19,7 +19,7 @@ Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovador
 
 | Projeto | Descrição | Tecnologia | Status |
 |---------|-----------|-----------|--------|
-| [[Serralheria FJS] (https://github.com/junniorramos35/serralheriafjs)] | Meu portfólio profissional | Next.js | ⚡ Ativo |
+| [Serralheria FJS] (https://github.com/junniorramos35/serralheriafjs) | Meu portfólio profissional | Next.js | ⚡ Ativo |
 
 
 
