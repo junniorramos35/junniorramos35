@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo ao meu perfil
 
-<!--
-**junniorramos35/junniorramos35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Junniorramos35eu**, desenvolvedor apaixonado por criar soluções inovadoras e código de qualidade. Aqui você encontrará todos os meus projetos organizados por categoria.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Aplicativos & Apps
+
+| Projeto | Descrição | Tecnologia | Status |
+|---------|-----------|-----------|--------|
+| [App 1](#) | Descrição do seu app | React/Vue | ⚡ Ativo |
+
+## 🌐 Websites & Portfólios
+
+| Projeto | Descrição | Tecnologia | Status |
+|---------|-----------|-----------|--------|
+| [Portfólio](#) | Meu portfólio profissional | Next.js | ⚡ Ativo |
+
+## 📦 SaaS & Plataformas
+
+| Projeto | Descrição | Tecnologia | Status |
+|---------|-----------|-----------|--------|
+| [Dashboard](#) | Plataforma de analytics | React + Node.js | ⚡ Ativo |
+
+## 📚 Bibliotecas & Ferramentas
+
+| Projeto | Descrição | Linguagem | Status |
+|---------|-----------|-----------|--------|
+| [Utils Helper](#) | Funções utilitárias | TypeScript | ⚡ Ativo |
+
+---
+
+## 🛠️ Stack Tecnológico
+- React, Next.js, Vue.js
+- Node.js, Python, Django
+- PostgreSQL, MongoDB, Docker
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junniorramos35eu&show_icons=true&theme=radical)
+
+---
+
+**Obrigado por visitar! ⭐**
